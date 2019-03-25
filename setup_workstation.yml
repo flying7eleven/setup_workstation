@@ -2,5 +2,6 @@
 - hosts: localhost
   connection: local
   roles:
-    - linux_borgbackup
-    - linux_vim
+    - galaxy_borgbackup
+    - galaxy_zsh
+    - galaxy_vim
