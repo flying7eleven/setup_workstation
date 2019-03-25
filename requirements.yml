@@ -1,2 +1,3 @@
 - src: https://github.com/thuetz/galaxy_linux_vim.git
+  name: linux_vim
   scm: git
