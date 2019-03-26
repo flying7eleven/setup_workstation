@@ -1,6 +1,4 @@
-- src: https://github.com/thuetz/galaxy_vim.git
+- src: git@github.com:thuetz/galaxy_vim.git
   scm: git
-- src: https://github.com/thuetz/galaxy_borgbackup.git
-  scm: git
-- src: https://github.com/thuetz/galaxy_zsh.git
+- src: git@github.com:thuetz/galaxy_borgbackup.git
   scm: git
