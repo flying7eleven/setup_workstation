@@ -3,5 +3,5 @@
   connection: local
   roles:
     - galaxy_borgbackup
-    - galaxy_zsh
     - galaxy_vim
+    - galaxy_zsh

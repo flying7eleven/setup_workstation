@@ -2,3 +2,5 @@
   scm: git
 - src: git@github.com:thuetz/galaxy_borgbackup.git
   scm: git
+- src: git@github.com:thuetz/galaxy_zsh.git
+  scm: git
