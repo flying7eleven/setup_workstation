@@ -6,3 +6,5 @@
   scm: git
 - src: git@github.com:thuetz/galaxy_spotify.git
   scm: git
+- src: git@github.com:thuetz/galaxy_vscode.git
+  scm: git
