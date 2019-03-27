@@ -3,5 +3,6 @@
   connection: local
   roles:
     - galaxy_borgbackup
+    - galaxy_spotify
     - galaxy_vim
     - galaxy_zsh
